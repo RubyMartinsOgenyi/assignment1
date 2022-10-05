@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(60deg,purple, rgb(228, 124, 141), blue)
+}
+h1{
+    text-align: center;
+    text-decoration: overline;
+    background-image: linear-gradient(lightblue,pink
+    );
+
+}
+a{
+    color: black;
+}
